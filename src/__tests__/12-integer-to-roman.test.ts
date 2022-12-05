@@ -2,7 +2,7 @@ import { IntToRoman } from "../12-integer-to-roman"
 
 describe("12 - Integer to Roman", () => {
     test("Example 1:", () => {
-        console.log("Explanation: 3 is represented as 3 ones.")
+        // Explanation: 3 is represented as 3 ones.
 
         const result = IntToRoman(3);
 
@@ -10,7 +10,7 @@ describe("12 - Integer to Roman", () => {
     })
 
     test("Example 2:", () => {
-        console.log("Explanation: L = 50, V = 5, III = 3.")
+        // Explanation: L = 50, V = 5, III = 3.
 
         const result = IntToRoman(58);
 
@@ -18,7 +18,7 @@ describe("12 - Integer to Roman", () => {
     })
 
     test("Example 3:", () => {
-        console.log("Explanation: L = 50, V = 5, III = 3.")
+        // Explanation: L = 50, V = 5, III = 3.
 
         const result = IntToRoman(1994);
 
