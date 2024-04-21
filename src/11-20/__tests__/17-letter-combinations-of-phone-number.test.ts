@@ -1,7 +1,6 @@
-import { ThreeSumClosest } from "../16-three-sum-closest";
 import { LetterCombinations } from "../17-letter-combinations-of-phone-number";
 
-describe("16 - Letter Combinations of a Phone Number", () => {
+describe("17 - Letter Combinations of a Phone Number", () => {
     test("Example 1", () => {
         const result = LetterCombinations("23");
 
